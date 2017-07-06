@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="ManualSelection"
+  SourceProjectPath="C:\Users\howardc\Documents\My Projects\michaellocal\michaellocal.flprj"
+  DestinationName="exported project"
+  DestinationPath="C:\Users\howardc\Documents\My Project Exports\"
+  ExportType="Files"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles>
+    <Url
+      Source="Products" />
+    <Url
+      Source="Products/Product A" />
+    <Url
+      Source="Products/Product A/Article1.htm" />
+    <Url
+      Source="Products/Product A/Article2.htm" />
+    <Url
+      Source="Products/Product A/Article3.htm" />
+    <Url
+      Source="Resources" />
+    <Url
+      Source="Resources/Images" />
+    <Url
+      Source="Resources/Images/ListIcon.png" />
+    <Url
+      Source="Resources/Images/MasterPage.png" />
+    <Url
+      Source="Resources/Images/MasterPage_Source.png" />
+    <Url
+      Source="Resources/MasterPages" />
+    <Url
+      Source="Resources/MasterPages/KB_Master_Page.flmsp" />
+    <Url
+      Source="Resources/PageLayouts" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles" />
+    <Url
+      Source="Resources/TableStyles/KBTable1.css" />
+    <Url
+      Source="Resources/TableStyles/KBTable2.css" />
+    <Url
+      Source="Sample Topics" />
+    <Url
+      Source="Sample Topics/ChangeLogoInSkin.htm" />
+    <Url
+      Source="Sample Topics/EditingMasterPage.htm" />
+    <Url
+      Source="KBTopicTemplate.htm" />
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="Welcome.htm" />
+  </SelectedContentFiles>
+  <SelectedProjectFiles>
+    <Url
+      Source="Advanced" />
+    <Url
+      Source="Advanced/MyAliasFile.flali" />
+    <Url
+      Source="Advanced/MyAuthorFileTagSet.flfts" />
+    <Url
+      Source="Advanced/MyHeaderFile.h" />
+    <Url
+      Source="Advanced/MyStatusFileTagSet.flfts" />
+    <Url
+      Source="ConditionTagSets" />
+    <Url
+      Source="ConditionTagSets/Default.flcts" />
+    <Url
+      Source="Destinations" />
+    <Url
+      Source="Destinations/MyDestination.fldes" />
+    <Url
+      Source="Exports" />
+    <Url
+      Source="Glossaries" />
+    <Url
+      Source="Glossaries/MyGlossary.flglo" />
+    <Url
+      Source="Imports" />
+    <Url
+      Source="Reports" />
+    <Url
+      Source="Skins" />
+    <Url
+      Source="Skins/HTML5 - TriPane.flskn" />
+    <Url
+      Source="Targets" />
+    <Url
+      Source="Targets/HTML5.fltar" />
+    <Url
+      Source="TOCs" />
+    <Url
+      Source="TOCs/Master.fltoc" />
+    <Url
+      Source="VariableSets" />
+    <Url
+      Source="VariableSets/MyVariables.flvar" />
+  </SelectedProjectFiles>
+</CatapultExportProjectFile>
